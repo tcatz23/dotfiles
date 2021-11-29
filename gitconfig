@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomas@spleatapp.com
+	name = Thomas Catz
